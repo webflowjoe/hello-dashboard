@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# OpenNext + Cloudflare build output
+/.open-next/
+/.wrangler/
+
+# misc
+.DS_Store
+*.pem
+.env*.local
+.env
